@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../async-nums-cards-solution/async-await"
+		},
+		{
+			"path": "../async-nums-cards-solution/callbacks"
+		},
+		{
+			"path": "../async-nums-cards-solution/promises"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "async-await",
+		"liveServer.settings.port": 5501
+	}
+}
